@@ -1,2 +1,3 @@
 # desafioAcademiaCap
-alguns exercícios lógica de programação (java)
+
+exercícios lógica de programação (linguagem utilizada: java)
